@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.entity;public class voucher {
+package com.ttcn.bancaycanh.entity;
+
+public class Voucher {
 }

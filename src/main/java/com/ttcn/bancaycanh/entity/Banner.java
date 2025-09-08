@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.entity;public class banner {
+package com.ttcn.bancaycanh.entity;
+
+public class Banner {
 }

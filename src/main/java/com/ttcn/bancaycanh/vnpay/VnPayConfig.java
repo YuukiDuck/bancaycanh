@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.vnpay;public class VnPayConfig {
+package com.ttcn.bancaycanh.vnpay;
+
+public class VnPayConfig {
 }

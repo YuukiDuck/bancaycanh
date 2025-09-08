@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.utils;public class UserUtils {
+package com.ttcn.bancaycanh.utils;
+
+public class UserUtils {
 }

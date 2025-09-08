@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.entity;public class historypay {
+package com.ttcn.bancaycanh.entity;
+
+public class HistoryPay {
 }

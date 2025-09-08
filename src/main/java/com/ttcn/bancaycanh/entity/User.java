@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.entity;public class user {
+package com.ttcn.bancaycanh.entity;
+
+public class User {
 }

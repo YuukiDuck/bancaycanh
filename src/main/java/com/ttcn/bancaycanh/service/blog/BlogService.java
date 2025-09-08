@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.service.blog;public interface BlogService {
+package com.ttcn.bancaycanh.service.blog;
+
+public interface BlogService {
 }

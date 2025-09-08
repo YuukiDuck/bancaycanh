@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.entity;public class cart {
+package com.ttcn.bancaycanh.entity;
+
+public class Cart {
 }

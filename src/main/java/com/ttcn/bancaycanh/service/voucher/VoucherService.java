@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.service.voucher;public interface VoucherService {
+package com.ttcn.bancaycanh.service.voucher;
+
+public interface VoucherService {
 }

@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.service.category;public interface CategoryService {
+package com.ttcn.bancaycanh.service.category;
+
+public interface CategoryService {
 }

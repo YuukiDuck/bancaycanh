@@ -1,2 +1,7 @@
-package com.ttcn.bancaycanh.service.user;public class UserServiceImpl {
+package com.ttcn.bancaycanh.service.user;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserServiceImpl implements UserService{
 }

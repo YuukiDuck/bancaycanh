@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.entity;public class blog {
+package com.ttcn.bancaycanh.entity;
+
+public class Blog {
 }

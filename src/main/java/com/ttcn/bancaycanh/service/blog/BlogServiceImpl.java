@@ -1,2 +1,7 @@
-package com.ttcn.bancaycanh.service.blog;public class BlogServiceImpl {
+package com.ttcn.bancaycanh.service.blog;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class BlogServiceImpl implements BlogService{
 }

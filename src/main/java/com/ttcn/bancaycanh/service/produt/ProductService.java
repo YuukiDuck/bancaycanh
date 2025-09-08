@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.service.produt;public interface ProductService {
+package com.ttcn.bancaycanh.service.produt;
+
+public interface ProductService {
 }

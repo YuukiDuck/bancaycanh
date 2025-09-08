@@ -1,2 +1,4 @@
-package com.ttcn.bancaycanh.service.user;public class UserService {
+package com.ttcn.bancaycanh.service.user;
+
+public interface UserService {
 }
